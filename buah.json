@@ -1,0 +1,12 @@
+{
+  "buah": [
+    {
+      "nama": "apel",
+      "warna": "merah"
+    },
+    {
+      "nama": "pisang",
+      "warna": "kuning"
+    }
+  ]
+}
